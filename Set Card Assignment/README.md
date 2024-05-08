@@ -1,5 +1,5 @@
 
-**Welcome to the Multi-Threaded Set Card Game: A Java-Based Implementation**
+****Welcome to the Multi-Threaded Set Card Game: A Java-Based Implementation****
 
 **Project Objectives**
 - Develop expertise in multi-threaded programming.
